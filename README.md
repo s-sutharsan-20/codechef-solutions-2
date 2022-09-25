@@ -12,4 +12,4 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 
 102) QUALIFY - https://www.codechef.com/viewsolution/75251134
 
-103)
+103) MINCARS - https://www.codechef.com/viewsolution/75251738
