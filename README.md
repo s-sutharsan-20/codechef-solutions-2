@@ -9,3 +9,7 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 
 
 101) SLEEP - https://www.codechef.com/viewsolution/75057854
+
+102) QUALIFY - https://www.codechef.com/viewsolution/75251134
+
+103)
