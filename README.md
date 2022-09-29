@@ -13,3 +13,7 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 102) QUALIFY - https://www.codechef.com/viewsolution/75251134
 
 103) MINCARS - https://www.codechef.com/viewsolution/75251738
+
+104) REACHTARGET - https://www.codechef.com/viewsolution/75534410
+
+105) JENGA - https://www.codechef.com/viewsolution/75644234
