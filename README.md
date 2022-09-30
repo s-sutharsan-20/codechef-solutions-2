@@ -17,3 +17,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 104) REACHTARGET - https://www.codechef.com/viewsolution/75534410
 
 105) JENGA - https://www.codechef.com/viewsolution/75644234
+
+106) DISCUSS - https://www.codechef.com/viewsolution/75708065
