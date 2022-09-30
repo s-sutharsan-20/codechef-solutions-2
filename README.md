@@ -19,3 +19,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 105) JENGA - https://www.codechef.com/viewsolution/75644234
 
 106) DISCUSS - https://www.codechef.com/viewsolution/75708065
+
+107) MAXTASTE - https://www.codechef.com/viewsolution/75709896
