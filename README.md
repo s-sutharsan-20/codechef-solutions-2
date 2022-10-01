@@ -21,3 +21,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 106) DISCUSS - https://www.codechef.com/viewsolution/75708065
 
 107) MAXTASTE - https://www.codechef.com/viewsolution/75709896
+
+108) MOVIE2X - https://www.codechef.com/viewsolution/75761896
