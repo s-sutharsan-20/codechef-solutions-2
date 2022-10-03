@@ -27,3 +27,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 109) POLTHIEF - https://www.codechef.com/viewsolution/75762278 
 
 110) TRANSFORM - https://www.codechef.com/viewsolution/75815084
+
+111) MYSERVE - https://www.codechef.com/viewsolution/75875356
