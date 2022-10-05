@@ -32,6 +32,6 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 
 112) CRICUP - https://www.codechef.com/viewsolution/75976436
 
-113)  - https://www.codechef.com/viewsolution/76022708
+113) FSQRT - https://www.codechef.com/viewsolution/76022708
 
-114)  - 
+114) FCTRL2 - https://www.codechef.com/viewsolution/76022776
