@@ -31,3 +31,7 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 111) MYSERVE - https://www.codechef.com/viewsolution/75875356
 
 112) CRICUP - https://www.codechef.com/viewsolution/75976436
+
+113)  - https://www.codechef.com/viewsolution/76022708
+
+114)  - 
