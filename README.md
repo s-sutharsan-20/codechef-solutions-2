@@ -35,3 +35,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 113) FSQRT - https://www.codechef.com/viewsolution/76022708
 
 114) FCTRL2 - https://www.codechef.com/viewsolution/76022776
+
+115) TSORT - https://www.codechef.com/viewsolution/76230124
