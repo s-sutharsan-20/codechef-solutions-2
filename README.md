@@ -39,3 +39,7 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 115) TSORT - https://www.codechef.com/viewsolution/76230124
 
 116) AUDIBLE - https://www.codechef.com/viewsolution/76233422
+
+117) FLOW006 - https://www.codechef.com/viewsolution/76356042
+
+118) 
