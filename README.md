@@ -45,3 +45,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 118) HS08TEST - https://www.codechef.com/viewsolution/76356232
 
 119) FLOW004 - https://www.codechef.com/viewsolution/76480598
+
+120) CHESSDIST - https://www.codechef.com/viewsolution/76482447
