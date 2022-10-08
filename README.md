@@ -43,3 +43,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 117) FLOW006 - https://www.codechef.com/viewsolution/76356042
 
 118) HS08TEST - https://www.codechef.com/viewsolution/76356232
+
+119) FLOW004 - https://www.codechef.com/viewsolution/76480598
