@@ -47,3 +47,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 119) FLOW004 - https://www.codechef.com/viewsolution/76480598
 
 120) CHESSDIST - https://www.codechef.com/viewsolution/76482447
+
+121) VALENTINE - https://www.codechef.com/viewsolution/76570569
