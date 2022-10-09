@@ -49,3 +49,5 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 120) CHESSDIST - https://www.codechef.com/viewsolution/76482447
 
 121) VALENTINE - https://www.codechef.com/viewsolution/76570569
+
+CHEFAPPS - https://www.codechef.com/viewsolution/76575588
