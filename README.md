@@ -53,3 +53,7 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 122) CHEFAPPS - https://www.codechef.com/viewsolution/76575588
 
 123) PODIUM https://www.codechef.com/viewsolution/76682785
+
+124) CHEFPAGES - https://www.codechef.com/viewsolution/76720690
+
+125) 
