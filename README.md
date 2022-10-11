@@ -56,4 +56,4 @@ First 100 Solutions are uploaded in another repository - https://github.com/s-su
 
 124) CHEFPAGES - https://www.codechef.com/viewsolution/76720690
 
-125) 
+125) PASSORFAIL - https://www.codechef.com/viewsolution/76751591
